@@ -1,2 +1,2 @@
 # MagicCube
-A AR Cube application
+AR Cube application
